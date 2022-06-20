@@ -1,4 +1,4 @@
-//A program to Sort Words in Alphabetic Order.
+#A program to Sort Words in Alphabetic Order.
 String = input("Enter the sentence you want to sort")
 while String == "":
     String = input("Enter your sentence again correctly")
